@@ -5,7 +5,7 @@
 </div>  
 
 <div align="center">  
-<a href="https://catherinbor.github.io/.github/transmit">  
+<a href="https://tanahavlic8094.github.io/.github/transmit">  
 <img src="https://img.shields.io/badge/Get_Transmit-darkgreen?style=for-the-badge&logo=apple" alt="Get Transmit">  
 </a>  
 </div>  
